@@ -1,0 +1,21 @@
+{
+  "powerbi": {
+    "tenant_id": "",
+    "client_id": "",
+    "dataset_id": "",
+    "query_file": "query.dax",
+    "column_mapping": {}
+  },
+  "oracle": {
+    "mode": "thin",
+    "client_lib_dir": "",
+    "config_dir": "",
+    "dsn": "",
+    "host": "",
+    "port": 1521,
+    "connection_type": "service_name",
+    "service_name": "",
+    "sid": "",
+    "user": ""
+  }
+}

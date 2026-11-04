@@ -1,0 +1,429 @@
+[
+  {
+    "name": "Organization",
+    "source": "ORG",
+    "fill": "#384C70",
+    "font": "#FFFFFF",
+    "format": "Text"
+  },
+  {
+    "name": "ASCP Plan",
+    "source": "ASCP PLAN",
+    "fill": "#384C70",
+    "font": "#FFFFFF",
+    "format": "Text"
+  },
+  {
+    "name": "Plan End Date",
+    "source": "PLAN DATE",
+    "fill": "#384C70",
+    "font": "#FFFFFF",
+    "format": "Date"
+  },
+  {
+    "name": "Supplier",
+    "source": "SUPPLIER",
+    "fill": "#384C70",
+    "font": "#FFFFFF",
+    "format": "Text"
+  },
+  {
+    "name": "Supplier Site",
+    "source": "SUPPLIER SITE",
+    "fill": "#384C70",
+    "font": "#FFFFFF",
+    "format": "Text"
+  },
+  {
+    "name": "Buyer Name",
+    "source": "BUYER",
+    "fill": "#384C70",
+    "font": "#FFFFFF",
+    "format": "Text"
+  },
+  {
+    "name": "Planner Code",
+    "source": "PLANNER",
+    "fill": "#384C70",
+    "font": "#FFFFFF",
+    "format": "Text"
+  },
+  {
+    "name": "Purchase Order (PO) / Requisition",
+    "source": "PURCHASE ORDER / REQUISITION",
+    "fill": "#384C70",
+    "font": "#FFFFFF",
+    "format": "Text"
+  },
+  {
+    "name": "PO Line",
+    "source": "LINE NUMBER",
+    "fill": "#384C70",
+    "font": "#FFFFFF",
+    "format": "Text"
+  },
+  {
+    "name": "PO Shipment",
+    "source": "SHIPMENT NUMBER",
+    "fill": "#384C70",
+    "font": "#FFFFFF",
+    "format": "Text"
+  },
+  {
+    "name": "PO Release",
+    "source": "PO RELEASE",
+    "fill": "#384C70",
+    "font": "#FFFFFF",
+    "format": "Text"
+  },
+  {
+    "name": "Item Name",
+    "source": "ITEM",
+    "fill": "#384C70",
+    "font": "#FFFFFF",
+    "format": "Text"
+  },
+  {
+    "name": "Description",
+    "source": "DESCRIPTION",
+    "fill": "#384C70",
+    "font": "#FFFFFF",
+    "format": "Text"
+  },
+  {
+    "name": "PO Qty",
+    "source": "PO QTY",
+    "fill": "#384C70",
+    "font": "#FFFFFF",
+    "format": "Number"
+  },
+  {
+    "name": "PO In Receiving",
+    "source": "PO IN RECEIVING",
+    "fill": "#384C70",
+    "font": "#FFFFFF",
+    "format": "Text"
+  },
+  {
+    "name": "Item Price",
+    "source": "ITEM PRICE",
+    "fill": "#384C70",
+    "font": "#FFFFFF",
+    "format": "Currency"
+  },
+  {
+    "name": "Need by Date",
+    "source": "NEED BY DATE",
+    "fill": "#FF0000",
+    "font": "#FFFFFF",
+    "format": "Date"
+  },
+  {
+    "name": "PO Promise Date",
+    "source": "PROMISED DATE",
+    "fill": "#FF0000",
+    "font": "#FFFFFF",
+    "format": "Date"
+  },
+  {
+    "name": "PO ID",
+    "source": null,
+    "fill": "#FABF8F",
+    "font": "#000000",
+    "format": "General"
+  },
+  {
+    "name": "Due Date",
+    "source": "DUE DATE",
+    "fill": "#384C70",
+    "font": "#FFFFFF",
+    "format": "Date"
+  },
+  {
+    "name": "New suggested dock date",
+    "source": "FINAL DATE",
+    "fill": "#384C70",
+    "font": "#FFFFFF",
+    "format": "Date"
+  },
+  {
+    "name": "Past Due",
+    "source": "PAST DUE",
+    "fill": "#384C70",
+    "font": "#FFFFFF",
+    "format": "Text"
+  },
+  {
+    "name": "Empty Promise Date",
+    "source": null,
+    "fill": "#384C70",
+    "font": "#FFFFFF",
+    "format": "Text"
+  },
+  {
+    "name": "Action On",
+    "source": "ACTION ON",
+    "fill": "#384C70",
+    "font": "#FFFFFF",
+    "format": "Text"
+  },
+  {
+    "name": "Buyer Comments",
+    "source": "BUYER NOTES",
+    "fill": "#384C70",
+    "font": "#FFFFFF",
+    "format": "Text"
+  },
+  {
+    "name": "SUPPLIER RESPONSE (Tracking number/ PO status/ Confirm dock date/ Additional comments)",
+    "source": "BUYER COMMENTS & TRACKING",
+    "fill": "#384C70",
+    "font": "#FFFFFF",
+    "format": "Text"
+  },
+  {
+    "name": "Comment (APP)",
+    "source": "COMMENT APP",
+    "fill": "#384C70",
+    "font": "#FFFFFF",
+    "format": "Text"
+  },
+  {
+    "name": "Comment By (APP)",
+    "source": "COMMENT BY APP",
+    "fill": "#384C70",
+    "font": "#FFFFFF",
+    "format": "Text"
+  },
+  {
+    "name": "Firmed",
+    "source": "FIRM",
+    "fill": "#FABF8F",
+    "font": "#000000",
+    "format": "Text"
+  },
+  {
+    "name": "ABC",
+    "source": "ABC",
+    "fill": "#FABF8F",
+    "font": "#000000",
+    "format": "Text"
+  },
+  {
+    "name": "Planning Time Fence Days",
+    "source": "PLANNING TIME FENCE",
+    "fill": "#FABF8F",
+    "font": "#000000",
+    "format": "Text"
+  },
+  {
+    "name": "Preprocessing LT",
+    "source": "PREPROCESSING LEAD TIME",
+    "fill": "#FABF8F",
+    "font": "#000000",
+    "format": "Text"
+  },
+  {
+    "name": "Processing LT",
+    "source": "PROCESSING LEAD TIME",
+    "fill": "#FABF8F",
+    "font": "#000000",
+    "format": "Text"
+  },
+  {
+    "name": "Postprocessing LT",
+    "source": "POST LEAD TIME",
+    "fill": "#FABF8F",
+    "font": "#000000",
+    "format": "Text"
+  },
+  {
+    "name": "Currency Code",
+    "source": "CURRENCY",
+    "fill": "#FABF8F",
+    "font": "#000000",
+    "format": "Text"
+  },
+  {
+    "name": "PO Ext",
+    "source": "OPEN PO LINE AMOUNT",
+    "fill": "#FABF8F",
+    "font": "#000000",
+    "format": "Currency"
+  },
+  {
+    "name": "Ship Method",
+    "source": "SHIP METHOD",
+    "fill": "#FABF8F",
+    "font": "#000000",
+    "format": "Text"
+  },
+  {
+    "name": "Ship Date",
+    "source": "SHIP DATE",
+    "fill": "#FABF8F",
+    "font": "#000000",
+    "format": "Date"
+  },
+  {
+    "name": "Action",
+    "source": "ACTION",
+    "fill": "#FABF8F",
+    "font": "#000000",
+    "format": "Text"
+  },
+  {
+    "name": "LSPSO",
+    "source": "LATE SUPPLY PEGGED TO SALES ORDER",
+    "fill": "#006400",
+    "font": "#FFFFFF",
+    "format": "Text"
+  },
+  {
+    "name": "LSPSO Date",
+    "source": null,
+    "fill": "#006400",
+    "font": "#FFFFFF",
+    "format": "Date"
+  },
+  {
+    "name": "LSPSO Date (No Postprocessing LT)",
+    "source": null,
+    "fill": "#006400",
+    "font": "#FFFFFF",
+    "format": "Date"
+  },
+  {
+    "name": "LSPF",
+    "source": "LATE SUPPLY PEGGED TO FORECAST",
+    "fill": "#006400",
+    "font": "#FFFFFF",
+    "format": "Text"
+  },
+  {
+    "name": "LSPF Date",
+    "source": null,
+    "fill": "#006400",
+    "font": "#FFFFFF",
+    "format": "Date"
+  },
+  {
+    "name": "LSPF Date (No Postprocessing LT)",
+    "source": null,
+    "fill": "#006400",
+    "font": "#FFFFFF",
+    "format": "Date"
+  },
+  {
+    "name": "Reschedule In Details",
+    "source": "RESCHEDULE IN DETAILS",
+    "fill": "#006400",
+    "font": "#FFFFFF",
+    "format": "Text"
+  },
+  {
+    "name": "Reschedule In Date",
+    "source": null,
+    "fill": "#006400",
+    "font": "#FFFFFF",
+    "format": "Date"
+  },
+  {
+    "name": "Reschedule Out Details",
+    "source": "RESCHEDULE OUT DETAILS",
+    "fill": "#006400",
+    "font": "#FFFFFF",
+    "format": "Text"
+  },
+  {
+    "name": "Reschedule Out Date",
+    "source": null,
+    "fill": "#006400",
+    "font": "#FFFFFF",
+    "format": "Date"
+  },
+  {
+    "name": "Cancel Details",
+    "source": "CANCEL DETAILS",
+    "fill": "#006400",
+    "font": "#FFFFFF",
+    "format": "Text"
+  },
+  {
+    "name": "ISO Number",
+    "source": "ISO NUMBER",
+    "fill": "#4BACC6",
+    "font": "#FFFFFF",
+    "format": "Text"
+  },
+  {
+    "name": "ISO Line",
+    "source": "ISO LINE NUMBER",
+    "fill": "#4BACC6",
+    "font": "#FFFFFF",
+    "format": "Text"
+  },
+  {
+    "name": "ISO Delivery LT",
+    "source": "ISO DELIVERY LEAD TIME",
+    "fill": "#4BACC6",
+    "font": "#FFFFFF",
+    "format": "Text"
+  },
+  {
+    "name": "ISO SSSD",
+    "source": "ISO SSD",
+    "fill": "#4BACC6",
+    "font": "#FFFFFF",
+    "format": "Date"
+  },
+  {
+    "name": "ISO Ship Method",
+    "source": "ISO SHIP METHOD",
+    "fill": "#4BACC6",
+    "font": "#FFFFFF",
+    "format": "Text"
+  },
+  {
+    "name": "ISO WO Status",
+    "source": "ISO WO STATUS",
+    "fill": "#4BACC6",
+    "font": "#FFFFFF",
+    "format": "Text"
+  },
+  {
+    "name": "ISO Status",
+    "source": "ISO STATUS",
+    "fill": "#4BACC6",
+    "font": "#FFFFFF",
+    "format": "Text"
+  },
+  {
+    "name": "ISO Shipment Priority",
+    "source": "ISO SHIPMENT PRIORITY",
+    "fill": "#4BACC6",
+    "font": "#FFFFFF",
+    "format": "Text"
+  },
+  {
+    "name": "ISO Airway Bill",
+    "source": "ISO AIRWAY BILL",
+    "fill": "#4BACC6",
+    "font": "#FFFFFF",
+    "format": "Text"
+  },
+  {
+    "name": "ISO Shipped Qty",
+    "source": "ISO SHIPPED QTY",
+    "fill": "#4BACC6",
+    "font": "#FFFFFF",
+    "format": "Text"
+  },
+  {
+    "name": "ISO RESV Qty",
+    "source": "ISO RESV QTY",
+    "fill": "#4BACC6",
+    "font": "#FFFFFF",
+    "format": "Text"
+  }
+]
