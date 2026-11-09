@@ -17,4 +17,4 @@ output/
 *.xls
 *.xlsb
 *.csv
-_pending_*
+_pending_ *
